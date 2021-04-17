@@ -1,0 +1,51 @@
+D:\Downloads\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe.config
+D:\Downloads\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe
+D:\Downloads\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.pdb
+D:\Downloads\TotemSiglo21\TotemSiglo21\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csprojAssemblyReference.cache
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.ComprobarReserva.resources
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Login.resources
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Properties.Resources.resources
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.GenerateResource.cache
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CoreCompileInputs.cache
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CopyComplete
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.exe
+D:\Downloads\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.pdb
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe.config
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.pdb
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csprojAssemblyReference.cache
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.ComprobarReserva.resources
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Login.resources
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Properties.Resources.resources
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.GenerateResource.cache
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CoreCompileInputs.cache
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CopyComplete
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.exe
+D:\Downloads\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.pdb
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe.config
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.pdb
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.ComprobarReserva.resources
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Login.resources
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Properties.Resources.resources
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.GenerateResource.cache
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CoreCompileInputs.cache
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CopyComplete
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.exe
+E:\DESCARGAS\Avances Portafolio Iteración 2\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.pdb
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe.config
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.exe
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\bin\Debug\TotemSiglo21.pdb
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csprojAssemblyReference.cache
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.ComprobarReserva.resources
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Login.resources
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.Properties.Resources.resources
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.GenerateResource.cache
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CoreCompileInputs.cache
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.csproj.CopyComplete
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.exe
+C:\Users\Alastor\Desktop\Portafolio\TotemSiglo21\TotemSiglo21\obj\Debug\TotemSiglo21.pdb

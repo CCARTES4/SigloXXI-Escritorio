@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://WS/" targetNamespace="http://WS/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="agr" type="tns:agr" />
+  <xs:element name="agrResponse" type="tns:agrResponse" />
+  <xs:complexType name="agr">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="V_RUT_CLIENTE" type="xs:string" />
+      <xs:element minOccurs="0" name="V_RUT_TRABAJADOR" type="xs:string" />
+      <xs:element name="V_NRO_MESA" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="agrResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
